@@ -1,2 +1,2 @@
 Small script to be able to parse backup file from a sportident base station together with a csv file with corresponing members and their SI-numbers. This way, just one base station i needed och just two punches need to be done (no empying, readout, etc is needed).
-The format of the members is `SI-number; name; club`, ie the same as to the [sportident-app].(https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full&hl=sv&gl=US&pli=1)
+The format of the members is `SI-number; name; club`, ie the same as to the [sportident-app](https://play.google.com/store/apps/details?id=se.joja.sidroid.event.full&hl=sv&gl=US&pli=1).
